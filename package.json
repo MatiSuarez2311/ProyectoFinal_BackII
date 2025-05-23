@@ -1,0 +1,26 @@
+{
+  "name": "proyectofinal_backii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiSuarez2311/ProyectoFinal_BackII.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiSuarez2311/ProyectoFinal_BackII/issues"
+  },
+  "homepage": "https://github.com/MatiSuarez2311/ProyectoFinal_BackII#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {}
+}
